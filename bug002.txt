@@ -1,7 +1,7 @@
-created by limengqin;
+created by tanxm;
 
 public class Main{
    public static void main(String[] args){
-       System.out.println("My name is limengqin");
+       System.out.println("My name is tanxm!");
    }
 }
